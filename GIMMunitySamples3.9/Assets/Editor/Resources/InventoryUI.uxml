@@ -1,0 +1,8 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xmlns="UnityEngine.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/Editor/populateStats.uss?fileID=7433441132597879392&amp;guid=c080484794c959449b74b20b8af55707&amp;type=3#populateStats" />
+    <ui:VisualElement class="quicktool-button unity-button container">
+        <ui:Label text="Label" display-tooltip-when-elided="true" style="height: 30%;" />
+        <ui:Label text="Label" display-tooltip-when-elided="true" style="height: 30%;" />
+        <ui:Label text="Label" display-tooltip-when-elided="true" style="height: 30%;" />
+    </ui:VisualElement>
+</ui:UXML>
